@@ -10,7 +10,7 @@ Create mysql database in your mysql database::
      
 Create python virtual environment and install requirements::
 
-    $ cd performance-stats
+    $ cd performance-test
     $ python3.8 -m venv venv
     $ venv/bin/pip install -r requirements.txt
     
